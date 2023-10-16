@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Voyage Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_1.jpg",
+      "city": "Kota Tangerang",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "2",
+      "name": "Ruang Gurau",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_2.jpg",
+      "city": "Bali",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "3",
+      "name": "Tuku Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_3.jpg",
+      "city": "BSD",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "4",
+      "name": "Teman Main Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_4.jpg",
+      "city": "Jakarta",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "5",
+      "name": "Voyage Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_1.jpg",
+      "city": "Kab. Tangerang",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "6",
+      "name": "Ruang Gurau",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_2.jpg",
+      "city": "Tangerang Selatan",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "7",
+      "name": "Tuku Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_3.jpg",
+      "city": "Kota Tangerang",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "8",
+      "name": "Teman Main Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_4.jpg",
+      "city": "BSD",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    },
+    {
+      "id": "9",
+      "name": "Voyage Coffee",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit",
+      "pictureId": "images/hero-image_1.jpg",
+      "city": "Kab. Tangerang",
+      "rating": "&#9733;&#9733;&#9733;&#9733;&#9733;"
+    }
+  ]
+}
