@@ -10,6 +10,15 @@
   font-family: 'Poppins';
 }
 
+a,
+button,
+input,
+input[type='text'],
+textarea {
+  min-width: 44px;
+  min-height: 44px;
+}
+
 body,
 html {
   background-color: #272727;
@@ -60,10 +69,15 @@ body {
 }
 
 .navitemsmob a {
+  max-width: 44px;
+  max-height: 44px;
+  display: inline-block;
+  text-decoration: none;
   color: white;
 }
 
 .iconmenu a {
+  display: inline-block;
   text-decoration: none;
   color: white;
 }
@@ -102,6 +116,13 @@ body {
   display: inline-block;
   text-align: right;
   line-height: 24px;
+}
+
+.navitems a {
+  padding: 1.3em;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
 }
 
 .navitems a:hover {
@@ -209,6 +230,7 @@ main {
 
 .list_item_rating_value {
   color: yellow;
+  display: inline-block;
   text-decoration: none;
 }
 
@@ -226,6 +248,9 @@ main {
 .list_item_title a {
   text-decoration: none;
   color: inherit;
+  display: inline-block;
+  min-height: 44px;
+  min-width: 44px;
 }
 
 .list_item_desc {
